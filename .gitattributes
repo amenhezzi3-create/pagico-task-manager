@@ -1,0 +1,10 @@
+# Language detection rules
+
+*.jpg binary
+*.html linguist-vendored
+src/*.ts linguist-detectable  
+
+src/** linguist-detectable
+*.map linguist-generated
+*.json linguist-detectable=false
+Cargo.lock linguist-generated

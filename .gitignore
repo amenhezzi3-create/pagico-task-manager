@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+build/
+yarn-error.log*
+*.tgz
+coverage/
+dist/
+.env.local
+*.log
